@@ -1,0 +1,12 @@
+# Keep survey responses and local credentials out of version control
+data/*
+!data/README.md
+*.xlsx
+*.xls
+*.csv
+.env
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+results/figures/*.png

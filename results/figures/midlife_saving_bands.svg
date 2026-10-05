@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="330" viewBox="0 0 980 330">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="32" y="42" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#1f2937">Midlife adults: monthly saving or investing</text>
+<text x="316" y="106" text-anchor="end" font-family="Arial,sans-serif" font-size="15" fill="#374151">21 - 30%</text>
+<rect x="330" y="86" width="465.0" height="25" rx="4" fill="#2A7F62"/>
+<text x="804.0" y="105" font-family="Arial,sans-serif" font-size="14" fill="#111827">15 (34.1%)</text>
+<text x="316" y="148" text-anchor="end" font-family="Arial,sans-serif" font-size="15" fill="#374151">10 - 20%</text>
+<rect x="330" y="128" width="372.0" height="25" rx="4" fill="#2A7F62"/>
+<text x="711.0" y="147" font-family="Arial,sans-serif" font-size="14" fill="#111827">12 (27.3%)</text>
+<text x="316" y="190" text-anchor="end" font-family="Arial,sans-serif" font-size="15" fill="#374151">Less than 10%</text>
+<rect x="330" y="170" width="341.0" height="25" rx="4" fill="#2A7F62"/>
+<text x="680.0" y="189" font-family="Arial,sans-serif" font-size="14" fill="#111827">11 (25.0%)</text>
+<text x="316" y="232" text-anchor="end" font-family="Arial,sans-serif" font-size="15" fill="#374151">31 - 50%</text>
+<rect x="330" y="212" width="124.0" height="25" rx="4" fill="#2A7F62"/>
+<text x="463.0" y="231" font-family="Arial,sans-serif" font-size="14" fill="#111827">4 (9.1%)</text>
+<text x="316" y="274" text-anchor="end" font-family="Arial,sans-serif" font-size="15" fill="#374151">More than 50%</text>
+<rect x="330" y="254" width="62.0" height="25" rx="4" fill="#2A7F62"/>
+<text x="401.0" y="273" font-family="Arial,sans-serif" font-size="14" fill="#111827">2 (4.5%)</text>
+<text x="330" y="322" font-family="Arial,sans-serif" font-size="12" fill="#6b7280">Counts; denominator: n=44</text>
+</svg>
